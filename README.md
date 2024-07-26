@@ -28,6 +28,5 @@ This project features a simple employee registration form built using HTML and P
 
 Here is how the registration form looks:
 
-![Registration Form Screenshot]((https://github.com/rumpadas1/Employee-Registration-Form/blob/main/Screenshot%20(262).png))
-
+![Example Image](https://github.com/rumpadas1/Employee-Registration-Form/blob/main/Screenshot%20(262).png)
 
