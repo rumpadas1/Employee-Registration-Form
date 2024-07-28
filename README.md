@@ -1,5 +1,5 @@
-# Employee Registration Form
-
+## Employee Registration Form
+# Description 
 This project features a simple employee registration form built using HTML and PHP. The form collects various employee details and displays a success message upon successful submission.
 ## Technologies
 <p align="left">
